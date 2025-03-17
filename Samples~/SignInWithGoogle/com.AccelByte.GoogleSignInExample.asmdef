@@ -1,0 +1,20 @@
+{
+    "name": "com.AccelByte.GoogleSignInExample",
+    "rootNamespace": "",
+    "references": [
+        "GUID:95c7e4cb1e3deab4c9a29517591920ba",
+        "GUID:051b970d70685034cad11489f0f58dff"
+    ],
+    "includePlatforms": [
+        "Android",
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

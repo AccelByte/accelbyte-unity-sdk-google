@@ -1,0 +1,45 @@
+{
+  "name": "com.accelbyte.unitysdkgoogle",
+  "displayName": "AccelByte Unity SDK Google",
+  "version": "1.0.0",
+  "unity": "2021.3",
+  "description": "AccelByte SDK extension for Google authentication and authorization supports",
+  "keywords": [
+    "accelbyte",
+    "third party",
+    "services",
+    "console",
+    "multiplayer",
+    "backend"
+  ],
+  "author": {
+    "name": "AccelByte Inc",
+    "url": "https://accelbyte.io/"
+  },
+  "changelogUrl": "https://docs.accelbyte.io/gaming-services/knowledge-base/release-notes",
+  "documentationUrl": "https://docs.accelbyte.io/gaming-services/services/access/reference/authentication/google-identity",
+  "hideInEditor": false,
+  "category": "extensions",
+  "homepage": "https://accelbyte.io/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AccelByte/accelbyte-unity-sdk-google"
+  },
+  "bugs": "https://github.com/AccelByte/accelbyte-unity-sdk-google/issues",
+  "type": "library",
+  "dependencies": {
+    "com.accelbyte.unitysdk": "17.6.0"
+  },
+  "samples": [
+    {
+      "displayName": "Sign in with Google",
+      "description": "Contains sample on how to Login to AGS with Google platform.",
+      "path": "Samples~/SignInWithGoogle"
+    },
+    {
+      "displayName": "In App Purchase",
+      "description": "Contains sample on how to utilize In App Purchase with AGS.",
+      "path": "Samples~/InAppPurchase"
+    }
+  ]
+}

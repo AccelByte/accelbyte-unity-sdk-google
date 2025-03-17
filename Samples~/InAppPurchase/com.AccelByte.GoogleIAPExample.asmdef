@@ -1,0 +1,24 @@
+{
+    "name": "com.AccelByte.GoogleIAPExample",
+    "rootNamespace": "",
+    "references": [
+        "GUID:a1da06c034303a943a92b973079fe447",
+        "GUID:95c7e4cb1e3deab4c9a29517591920ba",
+        "GUID:051b970d70685034cad11489f0f58dff",
+        "GUID:fe25561d224ed4743af4c60938a59d0b",
+        "GUID:08d1c582746949b40ba6a45cdb776bdf",
+        "GUID:60bfecf5cb232594891bc622f40d6bed"
+    ],
+    "includePlatforms": [
+        "Android",
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

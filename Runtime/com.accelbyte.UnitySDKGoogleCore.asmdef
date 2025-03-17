@@ -1,0 +1,19 @@
+{
+    "name": "com.accelbyte.UnitySDKGoogleCore",
+    "rootNamespace": "",
+    "references": [
+        "GUID:a12cd7b1609ab684ab00b00c98b214a8",
+        "GUID:95c7e4cb1e3deab4c9a29517591920ba"
+    ],
+    "includePlatforms": [
+        "Android"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
